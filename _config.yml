@@ -1,6 +1,5 @@
 theme: minima
 title: ahmed
-description: my blog
 header_pages:
   - about.md
   - me.md
